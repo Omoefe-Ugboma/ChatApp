@@ -1,0 +1,15 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Chat app with js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omoefe Joseph Ugboma",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
